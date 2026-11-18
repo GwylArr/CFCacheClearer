@@ -11,7 +11,7 @@
     <PackageId>Umbraco.Community.CFCacheClearer</PackageId>
     <Title>CF Cache Clearer</Title>
     <Description>Adds a dashboard to the Umbraco backoffice that can purge the CloudFlare cache for a full site or specific routes/tags, across headless and multisite setups.</Description>
-    <PackageTags>umbraco</PackageTags>
+    <PackageTags>umbraco;umbraco-marketplace</PackageTags>
     <Authors>Gwyl Richards</Authors>
     <Copyright>$([System.DateTime]::UtcNow.ToString(`yyyy`)) © Gwyl Richards</Copyright>
     <PackageProjectUrl>https://github.com/GwylArr/CFCacheClearer</PackageProjectUrl>
