@@ -1,0 +1,15 @@
+{
+    "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json", 
+    "AuthorDetails": {
+      "Name": "Gwyl Richards",
+      "Url": "https://www.linkedin.com/in/gwylim-richards-57175a23a",
+      "ImageUrl": "https://avatars.githubusercontent.com/u/98527262"
+    },
+    "Category": "Developer Tools",
+    "Description": "Clears the CloudFlare cache for any site configured in appsettings.",
+    "LicenseTypes": [ "Free" ],
+    "IssueTrackerUrl": "https://github.com/GwylArr/CFCacheClearer/issues",
+    "PackageType": "Package",
+    "Tags": [],
+    "Title": "CF Cache Clearer"
+  }

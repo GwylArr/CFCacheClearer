@@ -1,0 +1,14 @@
+{
+  "id": "CFCacheClearer",
+  "name": "CFCacheClearer",
+  "version": "0.0.0",
+  "allowTelemetry": true,
+  "extensions": [
+    {
+      "name": "CFCache Clearer Bundle",
+      "alias": "CFCacheClearer.Bundle",
+      "type": "bundle",
+      "js": "/App_Plugins/CFCacheClearer/cf-cache-clearer.js"
+    }
+  ]
+}

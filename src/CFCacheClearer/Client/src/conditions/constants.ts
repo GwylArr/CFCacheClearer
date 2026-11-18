@@ -1,0 +1,1 @@
+export const CFCACHE_CLEARER_ALLOWED_USER_GROUP_CONDITION_ALIAS = "CFCacheClearer.Condition.AllowedUserGroup";
